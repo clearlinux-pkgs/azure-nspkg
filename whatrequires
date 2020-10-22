@@ -1,3 +1,9 @@
 # This file contains recursive sources that require this package
+azure-batch
+azure-cli-nspkg
 azure-common
-azure-servicebus
+azure-core
+azure-datalake-store
+azure-graphrbac
+azure-mgmt-nspkg
+azure-multiapi-storage
